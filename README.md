@@ -1,4 +1,4 @@
-# html2Dash
+#*html2Dash
 
 html2Dash is an Documentation Set generator intended to be used with the [Dash.app](http://kapeli.com/dash/) API browser for OS X or one of its many clones. html2Dash is just like [doc2dash](https://github.com/hynek/doc2dash) but generating docset from any HTML documentations.
 
@@ -65,3 +65,4 @@ Generate the Docset for requests: `requests.docset`. Command：
     Generate Docset Successfully!  
 
 
+ 
